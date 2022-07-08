@@ -1,6 +1,6 @@
 ---
-title: Hi There
-blurb: Welcome to your new Hugo site.
+title: Home page
+blurb: Welcome
 section:
   heading: A Subsection
   text: Content
